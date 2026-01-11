@@ -1,14 +1,14 @@
 [
   {
-    "id": "paris-rome",
-    "title": "Paris & Rome",
-    "dates": "June 10–20, 2026",
-    "summary": "Art, history, and food across two cities"
+    "id": "example-trip",
+    "title": "Example Trip",
+    "dates": "Dates TBD",
+    "summary": "This is a placeholder itinerary"
   },
   {
-    "id": "tokyo",
-    "title": "Tokyo Adventure",
-    "dates": "August 1–10, 2026",
-    "summary": "Culture, tech, and street food"
+    "id": "future-trip",
+    "title": "Future Trip",
+    "dates": "Coming soon",
+    "summary": "Details will be added later"
   }
 ]
